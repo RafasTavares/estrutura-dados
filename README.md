@@ -1,8 +1,6 @@
-# Estuturas de ordenação
+# Estuturas de ordenação 
 
-# Diferenças entre os Algoritmos de Ordenação
-
-Aqui está uma explicação das diferenças entre os algoritmos de ordenação mencionados:
+## Diferenças entre os Algoritmos de Ordenação (Bubble Sort, Merge Sort, Quick Sort, Heap Sort, Insertion Sort)
 
 ---
 
